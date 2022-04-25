@@ -14,5 +14,15 @@
     "practica"
   ],
   "author": "Santiago Lara <oscarescobar773@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "moment": "^2.29.3"
+  },
+  "devDependencies": {
+    "date-fns": "^2.28.0"
+  },
+  "optionalDependencies": {
+    "eslint": "^8.14.0"
+  }
 }
